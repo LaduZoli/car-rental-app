@@ -6,14 +6,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
     <style>
         body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 60vh;
-            margin: 0;
             background: url('img/car-rental.jpg') no-repeat center center fixed;
             background-size: cover;
-            
+            padding-top: 20px;            
         }
 
         .container {
